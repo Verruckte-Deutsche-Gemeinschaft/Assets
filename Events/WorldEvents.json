@@ -14,7 +14,7 @@
   "Borders": [
     {
       "Name": "DJPult",
-      "Rank": "dj",
+      "Rank": "player",
       "ForceEnabled": true
     }]
 }
