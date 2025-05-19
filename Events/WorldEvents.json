@@ -7,7 +7,8 @@
       "DaysOfYear": [],
       "StartHour": 20,
       "StartMinute": 0,
-      "duration": 480,
+      "endHour": 4,
+      "endMinute": 0,
       "Borders": ["DJPult"]
     }],
   "Borders": [
