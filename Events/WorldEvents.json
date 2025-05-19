@@ -1,7 +1,7 @@
 {
   "WorldEvents": [
     {
-      "Name": "VeruckterFreitag",
+      "Name": "VerruckterFreitag",
       "DaysOfWeek": [5],
       "DaysOfMonth": [-1],
       "DaysOfYear": [-1],
@@ -9,12 +9,13 @@
       "StartMinute": 0,
       "endHour": 4,
       "endMinute": 0,
-      "Borders": ["DJPult"]
+      "Objects": ["DJPult"]
     }],
-  "Borders": [
+  "Objects": [
     {
       "Name": "DJPult",
       "Rank": "dj",
       "ForceEnabled": false
+      "EnableWhenRankIsMet": false
     }]
 }
