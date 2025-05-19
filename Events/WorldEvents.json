@@ -2,10 +2,10 @@
   "WorldEvents": [
     {
       "Name": "VeruckterFreitag",
-      "DaysOfWeek": [5],
+      "DaysOfWeek": [1],
       "DaysOfMonth": [-1],
       "DaysOfYear": [-1],
-      "StartHour": 20,
+      "StartHour": 16,
       "StartMinute": 0,
       "endHour": 4,
       "endMinute": 0,
