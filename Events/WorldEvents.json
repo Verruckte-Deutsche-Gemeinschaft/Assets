@@ -3,8 +3,6 @@
     {
       "Name": "VeruckterFreitag",
       "DaysOfWeek": [5],
-      "DaysOfMonth": [],
-      "DaysOfYear": [],
       "StartHour": 20,
       "StartMinute": 0,
       "endHour": 4,
