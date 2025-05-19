@@ -1,0 +1,19 @@
+{
+  "WorldEvents": [
+    {
+      "Name": "VeruckterFreitag",
+      "DaysOfWeek": [5],
+      "DaysOfMonth": [],
+      "DaysOfYear": [],
+      "StartHour": 20,
+      "StartMinute": 0,
+      "duration": 480,
+      "Borders": ["DJPult"]
+    }],
+  "Borders": [
+    {
+      "Name": "DJPult",
+      "Rank": "dj",
+      "ForceEnabled": false
+    }]
+}
