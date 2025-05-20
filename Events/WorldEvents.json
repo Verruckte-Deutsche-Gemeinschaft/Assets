@@ -2,10 +2,10 @@
   "WorldEvents": [
     {
       "Name": "VerruckterFreitag",
-      "DaysOfWeek": [5],
+      "DaysOfWeek": [3],
       "DaysOfMonth": [-1],
       "DaysOfYear": [-1],
-      "StartHour": 20,
+      "StartHour": 0,
       "StartMinute": 0,
       "endHour": 4,
       "endMinute": 0,
@@ -14,7 +14,7 @@
   "Objects": [
     {
       "Name": "DJPult",
-      "Rank": "dj",
+      "Rank": "owner",
       "ForceEnabled": false
       "EnableWhenRankIsMet": false
     }]
