@@ -5,7 +5,7 @@
       "DaysOfWeek": [3],
       "DaysOfMonth": [-1],
       "DaysOfYear": [-1],
-      "StartHour": 0,
+      "StartHour": 1,
       "StartMinute": 0,
       "endHour": 4,
       "endMinute": 0,
