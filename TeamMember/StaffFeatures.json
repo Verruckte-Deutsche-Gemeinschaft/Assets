@@ -1,4 +1,5 @@
 {
-  "VoiceBroadcast": 
+  "VoiceBroadcast": {
       "MinRank": "admin"
+  }
 }
