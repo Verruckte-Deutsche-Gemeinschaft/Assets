@@ -4,5 +4,8 @@
   },
   "Teleport": {
       "MinRank": "player"
+  },
+  "Freeze": {
+      "MinRank": "player"
   }
 }
