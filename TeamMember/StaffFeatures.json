@@ -2,4 +2,7 @@
   "VoiceBroadcast": {
       "MinRank": "admin"
   }
+  "Teleport": {
+      "MinRank": "player"
+  }
 }
