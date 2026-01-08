@@ -7,5 +7,8 @@
   },
   "Freeze": {
       "MinRank": "moderator"
+  },
+  "AdminRoom": {
+      "MinRank": "moderator"
   }
 }
