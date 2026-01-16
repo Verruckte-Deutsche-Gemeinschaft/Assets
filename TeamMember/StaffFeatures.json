@@ -1,14 +1,14 @@
 {
   "VoiceBroadcast": {
-      "MinRank": "moderator"
+      "MinRank": "supporter"
   },
   "Teleport": {
-      "MinRank": "moderator"
+      "MinRank": "supporter"
   },
   "Freeze": {
-      "MinRank": "moderator"
+      "MinRank": "supporter"
   },
   "AdminRoom": {
-      "MinRank": "moderator"
+      "MinRank": "supporter"
   }
 }
