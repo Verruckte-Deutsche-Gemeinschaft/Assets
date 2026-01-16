@@ -9,6 +9,6 @@
       "MinRank": "supporter"
   },
   "AdminRoom": {
-      "MinRank": "moderator"
+      "MinRank": "supporter"
   }
 }
