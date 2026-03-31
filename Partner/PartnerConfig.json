@@ -14,6 +14,9 @@
   "Vertikal_5": {
       "ID": "grp_6dbcba45-5e2d-4791-bb4c-8954009ee2f7"
   },
+  "Vertikal_6": {
+      "ID": "grp_3fc7f736-62c0-4582-b1a3-cbd39b937267"
+  },
   "Quadrat_1": {
       "ID": "grp_f8132b33-a537-4387-aad4-187ea2eff4d0"
   },
@@ -40,6 +43,9 @@
   },
   "Quadrat_9": {
       "ID": "grp_998c5578-c65c-4d20-b1e5-70cf3a724f32"
+  },
+  "Quadrat_10": {
+      "ID": "grp_3fc7f736-62c0-4582-b1a3-cbd39b937267"
   },
   "Horizontal_1": {
       "ID": "grp_a8de666e-a909-4462-88f1-3fd09fd4b0ca"
